@@ -22,7 +22,7 @@ E-commerce
 ## PROGRAMMING LANGUAGE:
 PYTHON
 ## TOOLS:
-Jupyter Notebook, Power BI, MS Excel
+Jupyter Notebook, Databricks Apache Spark, MS Excel, MySQL, Tableau, Rawgraphs.io, Python
 ## Linkedin Post 
 https://www.linkedin.com/posts/amar-shilvanth-2b3338240_internship-projectcompletion-careerdevelopment-activity-7114274901854744576-YYSr?utm_source=share&utm_medium=member_desktop
 ## Project Video 
