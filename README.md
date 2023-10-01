@@ -1,4 +1,7 @@
 # Sales-Data-Analysis
+
+## Note : 
+The Reports & Documents are added in both pptx and pdf formats if your are not able to open pptx formats kindly navigate to the Reports & Documents in (PDF) folder
 ## OBJECTIVE:
 To Understand how was the Sales of different Items. 
 ## PROBLEM STATEMENT: 
