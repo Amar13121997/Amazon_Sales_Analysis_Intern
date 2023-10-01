@@ -14,11 +14,17 @@ Sales-trend -> month wise , year wise , yearly_month wise
 Find key metrics and factors and show the meaningful relationships between attributes.
 ## DATASET: 
 https://docs.google.com/spreadsheets/d/1h3EsPf-fTLrzpP7sGeyuRnGBXrdJRcXY/edit?usp=sharing&ouid=105519103382792804653&rtpof=true&sd=true
+
 ## TECHNOLOGY:
-Business Intelligence
+Advanced Data Analytics
 ## DOMAIN:
 E-commerce
 ## PROGRAMMING LANGUAGE:
 PYTHON
 ## TOOLS:
 Jupyter Notebook, Power BI, MS Excel
+## Linkedin Post 
+https://www.linkedin.com/posts/amar-shilvanth-2b3338240_internship-projectcompletion-careerdevelopment-activity-7114274901854744576-YYSr?utm_source=share&utm_medium=member_desktop
+## Project Video 
+https://youtu.be/-9txNIyfb3Q
+
